@@ -2,7 +2,7 @@
 
 ## Class Diagram – Structure of the System
 
-[class diagram](class_diagram.drawio)
+![alt text](class_diagram.png)
 This diagram shows the strategy of the automated grading system, including all the classes, their properties (data), methods (actions), and how they work together.
 
 User is the parent class. Student and Lecturer inherit from it . They share name, email, login.
@@ -25,7 +25,7 @@ Why this matters: The class diagram shows developers exactly what data to store 
 
 ## Object Diagram – A Snapshot of the System in Action
 
-[object diagram](object_diagram.drawio)
+[alt text](object_diagram.png)
 The class diagram is a general plan, but the object diagram shows a specific example at a certain point in time. We consider it as a picture of the system in action.
 
 Tshering, a student, turned in her "Lab 1—Coding" assignment.
